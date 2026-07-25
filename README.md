@@ -35,7 +35,7 @@ I'm a B.Tech Electrical & Electronics Engineering student at **VNIT Nagpur** wit
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(Add your profile link here)*
+* 💼 LinkedIn: https://www.linkedin.com/in/sahithi-baira-461153279/
 * 📧 Email: **[sahithibaira@gmail.com](mailto:sahithibaira@gmail.com)**
 
 ---
